@@ -1,0 +1,11 @@
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\bin\Debug\Server.exe.config
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\bin\Debug\Server.exe
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\bin\Debug\Server.pdb
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.Server.resources
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.exe
+C:\Users\Nina\documents\visual studio 2015\Projects\ZIProjekat\Server\obj\Debug\Server.pdb
+D:\IV godina\Zastita informacija\Projekat\ZIProjekat_finished\ZIProjekat\Server\bin\Debug\Server.exe.config
+D:\IV godina\Zastita informacija\Projekat\ZIProjekat_finished\ZIProjekat\Server\obj\Debug\Server.exe
+D:\IV godina\Zastita informacija\Projekat\ZIProjekat_finished\ZIProjekat\Server\obj\Debug\Server.pdb
